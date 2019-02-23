@@ -18,6 +18,12 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+I left you in the morning,   
+And in the morning glow,  
+You walked a way beside me  
+To make me sad to go.  
+Do you know me in the gloaming,  
+
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
